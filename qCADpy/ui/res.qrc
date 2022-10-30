@@ -1,0 +1,47 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>res/scale.png</file>
+    <file>res/zoom-to-extents.png</file>
+    <file>res/show-property.png</file>
+    <file>res/Mirror.png</file>
+    <file>res/shutdown.png</file>
+    <file>res/photo-editor.png</file>
+    <file>res/arrow.png</file>
+    <file>res/bezier.png</file>
+    <file>res/complexcurve.png</file>
+    <file>res/connection.png</file>
+    <file>res/copy.ico</file>
+    <file>res/cut.ico</file>
+    <file>res/delete.ico</file>
+    <file>res/document_new.ico</file>
+    <file>res/document_open.ico</file>
+    <file>res/document_save_as.ico</file>
+    <file>res/ellipse.png</file>
+    <file>res/filesaveas.ico</file>
+    <file>res/folder_open.ico</file>
+    <file>res/gnome_dialog_question.ico</file>
+    <file>res/gnome_edit_paste.ico</file>
+    <file>res/grid.ico</file>
+    <file>res/layers.ico</file>
+    <file>res/line.png</file>
+    <file>res/logo.ico</file>
+    <file>res/magnifier.png</file>
+    <file>res/move.png</file>
+    <file>res/polygon.png</file>
+    <file>res/printer.ico</file>
+    <file>res/rectangle.png</file>
+    <file>res/redo.ico</file>
+    <file>res/rotate_ccw.ico</file>
+    <file>res/rotate_cw.ico</file>
+    <file>res/save (2).ico</file>
+    <file>res/save (3).ico</file>
+    <file>res/save (4).ico</file>
+    <file>res/save.ico</file>
+    <file>res/save_as.ico</file>
+    <file>res/settings1.ico</file>
+    <file>res/text.png</file>
+    <file>res/undo.ico</file>
+    <file>res/zoomIn.ico</file>
+    <file>res/zoomOut.ico</file>
+  </qresource>
+</RCC>
